@@ -1,0 +1,893 @@
+{
+	"folder_history":
+	[
+		"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master",
+		"/F/WORK RAVE/C130J/MTP/2017-09-13 WPF C130J_MTP_Block_7 Extraction_of_fuselage_textures/Exterior Macro/libs/nppBackup",
+		"/F/WORK RAVE/C130J/MTP/2017-09-13 WPF C130J_MTP_Block_7 Extraction_of_fuselage_textures/Exterior Macro/project/TLG",
+		"/F/WORK RAVE/C130J/MTP/2017-09-13 WPF C130J_MTP_Block_7 Extraction_of_fuselage_textures/Exterior Macro",
+		"/C/Users/tcstudent/Desktop/Loic Work/Work Done"
+	],
+	"last_version": 3143,
+	"last_window_id": 6,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 982.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ms",
+						"MsgBox"
+					],
+					[
+						"grid-rows",
+						"grid-auto-rows"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"att",
+						"attr\t.attr() - single"
+					],
+					[
+						"min-",
+						"min-height"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"wa",
+						"Wait"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"mr",
+						"margin"
+					],
+					[
+						"poi",
+						"position"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"overfl",
+						"overflow-y"
+					],
+					[
+						"paddin",
+						"padding-bottom"
+					],
+					[
+						"overf",
+						"overflow-x"
+					],
+					[
+						"in",
+						"Include\t#Include"
+					],
+					[
+						"HK",
+						"HKU"
+					],
+					[
+						"Reg",
+						"RegDelete"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Colorsublime: Install Theme"
+					]
+				],
+				"width": 428.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"package",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/starteam/Master ATA 99I/AHK/Task Time Tracker/test Script for control.ahk",
+				"/C/starteam/Master ATA 99I/AHK/Task Time Tracker/GUI_Creator.ahk",
+				"/C/starteam/Master ATA 99I/AHK/RTO VCC Viewer/Master/Compile_VsimObj_Workaround.ahk",
+				"/C/starteam/Master ATA 99I/AHK/Task Organizer/Task Organizer.ahk",
+				"/C/starteam/Master ATA 99I/AHK/Task Organizer/libs/AHK_general_functions.ahk",
+				"/C/starteam/Master ATA 99I/AHK/Task Organizer/Open task.ahk",
+				"/C/starteam/Master ATA 99I/AHK/Task Organizer/Archive task.ahk",
+				"/C/starteam/Master ATA 99I/AHK/Task Time Tracker/Task Time Tracker.sublime-project",
+				"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master/topics.xml",
+				"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master/css/maestro.css",
+				"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master/js/main.js",
+				"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master/index.html",
+				"/G/starteam/Simfinity SDP/Bombardier/GLOBAL_5000_6000/Cockpit/Resources/Resources_THROTTLES_Global.xaml",
+				"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master/css/main.css",
+				"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master/Maestro Documentation.sublime-project",
+				"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master/articles.xml",
+				"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master/Maestro Documentation.sublime-workspace",
+				"/C/xampp/htdocs/master99i/maestro_doc/index.html",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_04/1 - Copie.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_05/Post request - CAE - Show one snag.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Notes.txt",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_05/Post request - CAE snags.ahk",
+				"/C/Program Files/Sublime Text Build 3114 x64/Data/Packages/User/AutoHotkey.sublime-settings",
+				"/C/Program Files/Sublime Text Build 3114 x64/Data/Packages/AutoHotkey/AutoHotkey.sublime-settings",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_05/1 - Copie.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_05/list snag maybe.html",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_05/snag.html",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_05/tokens.txt",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_04/2.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_05/Post request.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_05/login.html",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_05/Post request - CAE.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_05/Post request - CAE - Get Snags.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_05/answer.html",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_04/1.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/IE Embeded/Index.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/IE Embeded/IE.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/IE Embeded/com.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/Nouveau AutoHotkey Script.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_01.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_03.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Web dev/HTTP_Test_02.ahk",
+				"/C/xampp/htdocs/mastro_briefing/main.css",
+				"/C/xampp/htdocs/mastro_briefing/index.html",
+				"/C/xampp/htdocs/mastro_briefing/Briefing.html",
+				"/C/xampp/htdocs/mastro_briefing/fedex.css",
+				"/C/xampp/htdocs/mastro_briefing/Briefing_FEDEX.html",
+				"/C/xampp/htdocs/mastro_briefing/Sources.css",
+				"/F/DESKTOP/work/Archive task.ahk",
+				"/C/starteam/Master ATA 99I/AHK/RTO VCC Viewer/Master/VCC Viewer.ahk",
+				"/F/Job files/[My projects]/AHK/Scripts/Monitor process/Class_ProcessExplorer.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/XA.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/Debug.ahk",
+				"/F/Job files/[My projects]/AHK/My Scripts/2017-11-06 Backup Task/task.xml",
+				"/C/starteam/Master ATA 99I/AHK/Common Libraries/XA.ahk",
+				"/F/DESKTOP/work/Open task.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/COM.AHK-1.0/com.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/AHK Official libcrypt.ahk/make.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/AHK Official libcrypt.ahk/build/libcrypt.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/AHK Official libcrypt.ahk/src/SHA-1.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/AHK Official libcrypt.ahk/src/MD5.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/Camerb/AHKs-master/CaptureAhkImage - Copie.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/Camerb/AHKs-master/CaptureAhkImage.ahk",
+				"/F/Job files/[My projects]/AHK/Useful scripts/CaptureAhkImage.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/Camerb/AHKs-master/FcnLib.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/Camerb/AHKs-master/FcnLib-GetUrlBar.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/Camerb/thirdParty/ScreenCapture.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/Camerb/AHKs-master/images/firefly/screenshot-noRefNumSearchResults.bmp",
+				"/F/Job files/[My projects]/AHK/Libraries/GitHub cswoyer/ScreenCapture.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/GitHub cswoyer/RavenFlight.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/maul-esel AHK-Util-Funcs/COM-Classes/COM-Classes-master/SaveHImage2File.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/maul-esel AHK-Util-Funcs/COM-Classes/COM-Classes-master/Picture/README.md",
+				"/F/Job files/[My projects]/AHK/Libraries/maul-esel AHK-Util-Funcs/COM-Classes/COM-Classes-master/Picture/Picture.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/maul-esel AHK-Util-Funcs/AeroThumbnail/lib/examples/demo1.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/maul-esel AHK-Util-Funcs/AeroThumbnail/lib/Thumbnail.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/maul-esel AHK-Util-Funcs/COM-Classes/COM-Classes-master/Persist/README.md",
+				"/F/Job files/[My projects]/AHK/Libraries/maul-esel AHK-Util-Funcs/COM-Classes/COM-Classes-master/Persist/Persist.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/Camerb/AHKs-master/FolderScan.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/Camerb/AHKs-master/ahksearch.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/Camerb/AHKs-master/lib/ws.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/MasterFocus/Functions/GetControsInfo/USAGE",
+				"/F/Job files/[My projects]/AHK/Libraries/MasterFocus/Functions/RandomBezier/EXAMPLE.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/MasterFocus/Others/WinLimit/WinLimit.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/GitHub AfterLemon/Class_Console.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/AHK_DllCall_WinAPI-master/src/Others/ZwDelayExecution.ahk",
+				"/F/Job files/[My projects]/AHK/Libraries/Camerb/thirdParty/lib_json.ahk",
+				"/C/Program Files/Sublime Text Build 3114 x64/Data/Packages/SublimeAutoHotkey-master/ahkexec.py",
+				"/F/DESKTOP/sdasd.ahk",
+				"/C/Program Files/Sublime Text Build 3114 x64/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Program Files/Sublime Text Build 3114 x64/Data/Packages/Package Control.sublime-package",
+				"/C/Program Files/Sublime Text Build 3114 x64/Data/Packages/SublimeAutoHotkey-master/AHK-PerformanceHeader.sublime-snippet",
+				"/C/Program Files/Sublime Text Build 3114 x64/Data/Packages/SublimeAutoHotkey-master/AHK-TrayIcon.sublime-snippet",
+				"/C/Program Files/Sublime Text Build 3114 x64/Data/Packages/SublimeAutoHotkey-master/AutoHotkey.sublime-build",
+				"/C/Program Files/Sublime Text Build 3114 x64/Data/Packages/SublimeAutoHotkey-master/Main.sublime-menu",
+				"/C/Program Files/Sublime Text Build 3114 x64/Data/Packages/SublimeAutoHotkey-master/Comments.tmPreferences",
+				"/C/Program Files/Sublime Text Build 3114 x64/Data/Packages/SublimeAutoHotkey-master/Default.sublime-commands"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Field",
+					"editBtn",
+					"node",
+					"tmp_key",
+					"for",
+					"Push",
+					"created_date",
+					"AddTimeWin",
+					"global_current_time",
+					"TaskWin"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ShowTimeWin",
+					"AddTimeWin"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 197.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1330.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"css",
+						"css\t.css() - single"
+					],
+					[
+						"cs",
+						"css\t.css() - single"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "JtoHome.html",
+					"settings":
+					{
+						"buffer_size": 15640,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "CAESimfinityOCX.html",
+					"settings":
+					{
+						"buffer_size": 12115,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/XAMPP/htdocs/CAESimfinityOCX/index.html",
+					"settings":
+					{
+						"buffer_size": 19076,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "ocx.js",
+					"settings":
+					{
+						"buffer_size": 18201,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "OCX_Original.html",
+					"settings":
+					{
+						"buffer_size": 14130,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE plist PUBLIC \"-//Apple//DTD PLIST 1.0//EN\" \"http://www.apple.com/DTDs/PropertyList-1.0.dtd\">\n<plist version=\"1.0\">\n<dict>\n\t<key>comment</key>\n\t<string>Carmine Paolino</string>\n\t<key>name</key>\n\t<string>Xcode default</string>\n\t<key>settings</key>\n\t<array>\n\t\t<dict>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>background</key>\n\t\t\t\t<string>#FFFFFF</string>\n\t\t\t\t<key>caret</key>\n\t\t\t\t<string>#000000</string>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#000000</string>\n\t\t\t\t<key>invisibles</key>\n\t\t\t\t<string>#BFBFBF</string>\n\t\t\t\t<key>lineHighlight</key>\n\t\t\t\t<string>#00000012</string>\n\t\t\t\t<key>selection</key>\n\t\t\t\t<string>#B5D5FF</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Comment</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>comment</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>background</key>\n\t\t\t\t<string>#ebf1fb</string>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#008E00</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Preprocessor Statements</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>meta.preprocessor, keyword.control.import</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#7D4726</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>String</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>string</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#DF0002</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Number</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>constant.numeric</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#3A00DC</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Built-in constant</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>constant.language</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#C800A4</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>User-defined constant</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>constant.character, constant.other</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#275A5E</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Variable</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>variable.language, variable.other</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#000000</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Keyword</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>keyword</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#8a00ad</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Storage</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>storage</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#8a00ad</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Class name</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>entity.name.class</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#438288</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Inherited class</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>entity.other.inherited-class</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict/>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Function name</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>entity.name.function</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict/>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Function argument</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>variable.parameter</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict/>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Tag name</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>entity.name.tag</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#a712a1</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Tag attribute</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>entity.other.attribute-name</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#a57000</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Library function</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>support.function</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#0000a9</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Library constant</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>support.constant</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#450084</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Library class/type</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>support.type, support.class</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#0000a9</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Library variable</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>support.other.variable</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#790EAD</string>\n\t\t\t</dict>\n\t\t</dict>\n\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string>Invalid</string>\n\t\t\t<key>scope</key>\n\t\t\t<string>invalid</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict/>\n\t\t</dict>\n\t</array>\n\t<key>uuid</key>\n\t<string>EE3AD170-2B7F-4DE1-B724-C75F13FE0085</string>\n</dict>\n</plist>\n",
+					"file": "/C/Program Files/Sublime Text 3 Portable/Data/Packages/Colorsublime - Themes/Xcode_Loic.tmTheme",
+					"file_size": 5202,
+					"file_write_time": 131641260752988189,
+					"settings":
+					{
+						"buffer_size": 5202,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "colo",
+				"selected_items":
+				[
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"Package Control: instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: instll",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"Package Control: Install Package",
+					"package",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/H/htdocs/CAEsimLauncher"
+			],
+			"file_history":
+			[
+				"/C/Users/LD/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/C/XAMPP/htdocs/simLauncher/notes.xlsx",
+				"/C/XAMPP/htdocs/simLauncher/ocx.js",
+				"/C/XAMPP/htdocs/simLauncher/js/AppUtility/JtoApp.js",
+				"/C/XAMPP/htdocs/simLauncher/js/AppUtility/JtoMain.js",
+				"/C/XAMPP/htdocs/simLauncher/js/GenericUI/JtoDialog.js",
+				"/C/XAMPP/htdocs/simLauncher/js/GenericUI/JtoWaitDialog.js",
+				"/C/XAMPP/htdocs/simLauncher/css/AppUtility/JtoStylesheet.css",
+				"/C/XAMPP/htdocs/simLauncher/body.html",
+				"/C/XAMPP/htdocs/simLauncher/js/GenericUI/JtoPinDialog.js",
+				"/C/XAMPP/htdocs/simLauncher/CAESimfinityOCX.html",
+				"/C/XAMPP/htdocs/simLauncher/Simfinity Launcher.sublime-project",
+				"/C/XAMPP/htdocs/simLauncher/JtoHome.html",
+				"/C/XAMPP/htdocs/CAESimfinityXR/web/WEB-INF/sun-web.xml",
+				"/C/XAMPP/htdocs/CAESimfinityXR/web/index.php",
+				"/C/Users/LD/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/F/New Skyrim/Skyrim app/Check Integrity.ahk",
+				"/F/New Skyrim/Skyrim app/list.xml",
+				"/D/[LD]/Desktop/Skyrim app/Check Integrity.ahk",
+				"/C/Program Files (x86)/Steam/steamapps/common/Skyrim Special Edition/ModOrganizer/ModOrganizer.exe",
+				"/D/[LD]/Documents/My Games/Skyrim Special Edition/Logs/Script/Papyrus.0.log"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"BuildCommandline",
+					"OnLaunch",
+					"OnLessonStart",
+					"JtoInstructorView",
+					"instructorView",
+					"JtoWaitDialog",
+					"JtoMain",
+					"list",
+					"navMenuBtn",
+					"stopVSIM",
+					"correctPNG",
+					"stopLesson",
+					"AppStart",
+					"cmdline",
+					"stopVSIM",
+					"XvSim",
+					"AppStart",
+					"cmdline",
+					"AppStart",
+					"appStarted",
+					"AppStart(",
+					"Appstart",
+					"()\n",
+					"attachEvent",
+					"object",
+					"OnLessonStart",
+					"AppShow",
+					"trigger",
+					"oVSim",
+					"js",
+					"javascript"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"StopVSIM",
+					"CorrectPNG",
+					"StopLesson"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "JtoHome.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15640,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1061,
+										1061
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 3,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 675.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "CAESimfinityOCX.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12115,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3572,
+										3572
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 3,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2205.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/XAMPP/htdocs/CAESimfinityOCX/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19076,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										860,
+										860
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "ocx.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18201,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1198,
+										1198
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 135.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "OCX_Original.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14130,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4283,
+										4299
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 597.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 5,
+							"file": "/C/Program Files/Sublime Text 3 Portable/Data/Packages/Colorsublime - Themes/Xcode_Loic.tmTheme",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5202,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4206,
+										4212
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2495.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 70.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,1127,696,103,1593",
+			"project": "Simfinity Launcher.sublime-project",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 276.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 5,
+			"workspace_name": "/H/htdocs/CAEsimLauncher/Simfinity Launcher.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/H/htdocs/CAEsimLauncher/Simfinity Launcher.sublime-workspace",
+			"/C/starteam/Master ATA 99I/AHK/Task Time Tracker/Task Time Tracker.sublime-workspace",
+			"/C/starteam/Master ATA 99I/AHK/Task Organizer/Task Organizer.sublime-workspace",
+			"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master/Maestro Documentation.sublime-workspace",
+			"/F/WORK RAVE/C130J/MTP/2017-09-13 WPF C130J_MTP_Block_7 Extraction_of_fuselage_textures/Exterior Macro/Sublime_Project.sublime-workspace"
+		]
+	}
+}

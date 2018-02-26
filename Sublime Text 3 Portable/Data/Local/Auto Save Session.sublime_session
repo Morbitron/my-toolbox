@@ -1,0 +1,813 @@
+{
+	"folder_history":
+	[
+		"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master",
+		"/F/WORK RAVE/C130J/MTP/2017-09-13 WPF C130J_MTP_Block_7 Extraction_of_fuselage_textures/Exterior Macro/libs/nppBackup",
+		"/F/WORK RAVE/C130J/MTP/2017-09-13 WPF C130J_MTP_Block_7 Extraction_of_fuselage_textures/Exterior Macro/project/TLG",
+		"/F/WORK RAVE/C130J/MTP/2017-09-13 WPF C130J_MTP_Block_7 Extraction_of_fuselage_textures/Exterior Macro",
+		"/C/Users/tcstudent/Desktop/Loic Work/Work Done"
+	],
+	"last_version": 3143,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 966.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"css",
+						"css\t.css() - single"
+					],
+					[
+						"cs",
+						"css\t.css() - single"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "colo",
+				"selected_items":
+				[
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"Package Control: instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: instll",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"Package Control: Install Package",
+					"package",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Program Files/Sublime Text 3 Portable/Data/Packages/Colorsublime - Themes/Xcode_Loic.tmTheme",
+				"/C/Users/LD/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/C/XAMPP/htdocs/simLauncher/notes.xlsx",
+				"/C/XAMPP/htdocs/simLauncher/ocx.js",
+				"/C/XAMPP/htdocs/simLauncher/js/AppUtility/JtoApp.js",
+				"/C/XAMPP/htdocs/simLauncher/js/AppUtility/JtoMain.js",
+				"/C/XAMPP/htdocs/simLauncher/js/GenericUI/JtoDialog.js",
+				"/C/XAMPP/htdocs/simLauncher/js/GenericUI/JtoWaitDialog.js",
+				"/C/XAMPP/htdocs/simLauncher/css/AppUtility/JtoStylesheet.css",
+				"/C/XAMPP/htdocs/simLauncher/body.html",
+				"/C/XAMPP/htdocs/simLauncher/js/GenericUI/JtoPinDialog.js",
+				"/C/XAMPP/htdocs/simLauncher/CAESimfinityOCX.html",
+				"/C/XAMPP/htdocs/simLauncher/Simfinity Launcher.sublime-project",
+				"/C/XAMPP/htdocs/simLauncher/JtoHome.html",
+				"/C/XAMPP/htdocs/CAESimfinityXR/web/WEB-INF/sun-web.xml",
+				"/C/XAMPP/htdocs/CAESimfinityXR/web/index.php",
+				"/C/Users/LD/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/F/New Skyrim/Skyrim app/Check Integrity.ahk",
+				"/F/New Skyrim/Skyrim app/list.xml",
+				"/D/[LD]/Desktop/Skyrim app/Check Integrity.ahk",
+				"/C/Program Files (x86)/Steam/steamapps/common/Skyrim Special Edition/ModOrganizer/ModOrganizer.exe",
+				"/D/[LD]/Documents/My Games/Skyrim Special Edition/Logs/Script/Papyrus.0.log"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"BuildCommandline",
+					"OnLaunch",
+					"OnLessonStart",
+					"JtoInstructorView",
+					"instructorView",
+					"JtoWaitDialog",
+					"JtoMain",
+					"list",
+					"navMenuBtn",
+					"stopVSIM",
+					"correctPNG",
+					"stopLesson",
+					"AppStart",
+					"cmdline",
+					"stopVSIM",
+					"XvSim",
+					"AppStart",
+					"cmdline",
+					"AppStart",
+					"appStarted",
+					"AppStart(",
+					"Appstart",
+					"()\n",
+					"attachEvent",
+					"object",
+					"OnLessonStart",
+					"AppShow",
+					"trigger",
+					"oVSim",
+					"js",
+					"javascript"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"StopVSIM",
+					"CorrectPNG",
+					"StopLesson"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 276.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 881.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"css",
+						"css\t.css() - single"
+					],
+					[
+						"cs",
+						"css\t.css() - single"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "JtoHome.html",
+					"settings":
+					{
+						"buffer_size": 15640,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "CAESimfinityOCX.html",
+					"settings":
+					{
+						"buffer_size": 12115,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/XAMPP/htdocs/CAESimfinityOCX/index.html",
+					"settings":
+					{
+						"buffer_size": 19076,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "ocx.js",
+					"settings":
+					{
+						"buffer_size": 18201,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "OCX_Original.html",
+					"settings":
+					{
+						"buffer_size": 14130,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Program Files/Sublime Text 3 Portable/Data/Packages/Color Theme User/Adaptive_Loic.sublime-theme",
+					"settings":
+					{
+						"buffer_size": 796,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "colo",
+				"selected_items":
+				[
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"Package Control: instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: instll",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"Package Control: Install Package",
+					"package",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/H/htdocs/CAEsimLauncher"
+			],
+			"file_history":
+			[
+				"/C/Program Files/Sublime Text 3 Portable/Data/Packages/Color Theme User/Xcode_Loic_Dark.tmTheme",
+				"/C/Program Files/Sublime Text 3 Portable/Data/Packages/Colorsublime - Themes/Xcode_Loic.tmTheme",
+				"/C/Users/LD/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/C/XAMPP/htdocs/simLauncher/notes.xlsx",
+				"/C/XAMPP/htdocs/simLauncher/ocx.js",
+				"/C/XAMPP/htdocs/simLauncher/js/AppUtility/JtoApp.js",
+				"/C/XAMPP/htdocs/simLauncher/js/AppUtility/JtoMain.js",
+				"/C/XAMPP/htdocs/simLauncher/js/GenericUI/JtoDialog.js",
+				"/C/XAMPP/htdocs/simLauncher/js/GenericUI/JtoWaitDialog.js",
+				"/C/XAMPP/htdocs/simLauncher/css/AppUtility/JtoStylesheet.css",
+				"/C/XAMPP/htdocs/simLauncher/body.html",
+				"/C/XAMPP/htdocs/simLauncher/js/GenericUI/JtoPinDialog.js",
+				"/C/XAMPP/htdocs/simLauncher/CAESimfinityOCX.html",
+				"/C/XAMPP/htdocs/simLauncher/Simfinity Launcher.sublime-project",
+				"/C/XAMPP/htdocs/simLauncher/JtoHome.html",
+				"/C/XAMPP/htdocs/CAESimfinityXR/web/WEB-INF/sun-web.xml",
+				"/C/XAMPP/htdocs/CAESimfinityXR/web/index.php",
+				"/C/Users/LD/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/F/New Skyrim/Skyrim app/Check Integrity.ahk",
+				"/F/New Skyrim/Skyrim app/list.xml",
+				"/D/[LD]/Desktop/Skyrim app/Check Integrity.ahk",
+				"/C/Program Files (x86)/Steam/steamapps/common/Skyrim Special Edition/ModOrganizer/ModOrganizer.exe",
+				"/D/[LD]/Documents/My Games/Skyrim Special Edition/Logs/Script/Papyrus.0.log"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"BuildCommandline",
+					"OnLaunch",
+					"OnLessonStart",
+					"JtoInstructorView",
+					"instructorView",
+					"JtoWaitDialog",
+					"JtoMain",
+					"list",
+					"navMenuBtn",
+					"stopVSIM",
+					"correctPNG",
+					"stopLesson",
+					"AppStart",
+					"cmdline",
+					"stopVSIM",
+					"XvSim",
+					"AppStart",
+					"cmdline",
+					"AppStart",
+					"appStarted",
+					"AppStart(",
+					"Appstart",
+					"()\n",
+					"attachEvent",
+					"object",
+					"OnLessonStart",
+					"AppShow",
+					"trigger",
+					"oVSim",
+					"js",
+					"javascript"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"StopVSIM",
+					"CorrectPNG",
+					"StopLesson"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "JtoHome.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15640,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1061,
+										1061
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 3,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 675.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "CAESimfinityOCX.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12115,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3572,
+										3572
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 3,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2205.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/XAMPP/htdocs/CAESimfinityOCX/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19076,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2162,
+										2162
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 360.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "ocx.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18201,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1078,
+										1078
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "OCX_Original.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14130,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										791,
+										791
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1755.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 5,
+							"file": "/C/Program Files/Sublime Text 3 Portable/Data/Packages/Color Theme User/Adaptive_Loic.sublime-theme",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 796,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										369,
+										369
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,1127,696,103,1593",
+			"project": "Simfinity Launcher.sublime-project",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 276.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 5,
+			"workspace_name": "/H/htdocs/CAEsimLauncher/Simfinity Launcher.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/H/htdocs/CAEsimLauncher/Simfinity Launcher.sublime-workspace",
+			"/C/starteam/Master ATA 99I/AHK/Task Time Tracker/Task Time Tracker.sublime-workspace",
+			"/C/starteam/Master ATA 99I/AHK/Task Organizer/Task Organizer.sublime-workspace",
+			"/C/starteam/Master ATA 99I/WEB/Maestro Documentation/Master/Maestro Documentation.sublime-workspace",
+			"/F/WORK RAVE/C130J/MTP/2017-09-13 WPF C130J_MTP_Block_7 Extraction_of_fuselage_textures/Exterior Macro/Sublime_Project.sublime-workspace"
+		]
+	}
+}
